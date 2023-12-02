@@ -73,7 +73,6 @@ for line in lines:
                 count += 1
 
     num += lastChar
-    print(counter, ", ", num)
     Total += int(num)
 
 print(Total)
